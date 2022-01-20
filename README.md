@@ -1,6 +1,6 @@
 # Binomial_expansion-solver
 
-<b>Program that expand a binomial usign Pascal's triangle.</b>
+<b>Program that expands a binomial usign Pascal's triangle.</b>
  
 <h1>Method</h1>
 The Pascal's triangle is a number pattern, represented as a triangular array, where each number is the sum of two numbers directly above it, creating rows that are numerated from zero to inifinity, top to bottom.
